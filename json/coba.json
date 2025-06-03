@@ -1,0 +1,36 @@
+[
+    {
+        "nama" : "Maisaroh",
+        "umur" : 21,
+        "nim" : "2217020122",
+        "lulus" : true,
+        "hobby" : [
+            "travelling",
+            "cooking"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Doddy Ferdiansyah",
+            "pembimbing2": "Erick Doank"
+        }
+
+
+    },
+
+    {
+        "nama" : "Maisaroh",
+        "umur" : 21,
+        "nim" : "2217020122",
+        "lulus" : true,
+        "hobby" : [
+            "travelling",
+            "cooking"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Doddy Ferdiansyah",
+            "pembimbing2": "Erick Doank"
+        }
+
+
+    }
+]
+
