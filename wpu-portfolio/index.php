@@ -148,7 +148,7 @@ foreach ($result['data'] as $photo) {
               </div>
               <div class="col-md-8">
                 <h5>_mai_saroh_</h5>
-                <p>134 Followers.</p>
+                <p>671 Followers.</p>
               </div>
             </div>
 
