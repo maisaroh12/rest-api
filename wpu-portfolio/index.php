@@ -85,7 +85,7 @@ foreach ($result['data'] as $photo) {
       <div class="container">
         <div class="text-center">
           <img src="img/Kekenola.png" class="rounded-circle img-thumbnail">
-          <h1 class="display-4">Kekenola</h1>
+          <h1 class="display-4"></h1>
           <h3 class="lead">Student | Traveller</h3>
         </div>
       </div>
@@ -102,10 +102,10 @@ foreach ($result['data'] as $photo) {
         </div>
         <div class="row justify-content-center">
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Nama saya Maisaroh saya adalah mahasiswa UIN Imam Bonjol Padang, jurusan saya Sistem Informasi, saya berasal dari Pasaman Barat, usia saya 21 tahun</p>
           </div>
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Saya suka belajar hal baru dan terus berkembang melalui proyek-proyek kreatif, baik secara individu maupun tim. Selain dunia IT, saya juga gemar bepergian dan berbagi pengalaman melalui media sosial.</p>
           </div>
         </div>
       </div>
