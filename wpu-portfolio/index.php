@@ -147,7 +147,7 @@ foreach ($result['data'] as $photo) {
                 <img src="img/profilig.jpeg" width="200" class="rounded-circle img-thumbnail">
               </div>
               <div class="col-md-8">
-                <h5>nolahasugian</h5>
+                <h5>_mai_saroh_</h5>
                 <p>134 Followers.</p>
               </div>
             </div>
