@@ -84,7 +84,7 @@ foreach ($result['data'] as $photo) {
     <div class="jumbotron" id="home">
       <div class="container">
         <div class="text-center">
-          <img src="img/Kekenola.png" class="rounded-circle img-thumbnail">
+          <img src="img/Maisaroh.png" class="rounded-circle img-thumbnail">
           <h1 class="display-4"></h1>
           <h3 class="lead">Student | Traveller</h3>
         </div>
