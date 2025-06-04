@@ -144,7 +144,7 @@ foreach ($result['data'] as $photo) {
           <div class="col-md-5">
             <div class="row">
               <div class="col-md-4">
-                <img src="img/profilig.jpeg" width="200" class="rounded-circle img-thumbnail">
+                <img src="img/profile2.png" width="200" class="rounded-circle img-thumbnail">
               </div>
               <div class="col-md-8">
                 <h5>_mai_saroh_</h5>
